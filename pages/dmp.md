@@ -19,7 +19,7 @@ In the table, group it by file type, then sum up the \# of items, the size in MB
 
 |Item Descroption|File Type|Size (in MB)|\# of Items|License(s)|Sources|Documentation and Metadata|
 |---|---|---|---|---|---|---|
-|stuff1|jpg/jpeg|stuff3|21 Items|Creative Commons Zero - Public Domain|British Museum, National Archeological Museum, Met Museum, MFA Boston, National Museums Liverpool, Newfields, Heraklion Archaeological Museum|stuff7|
+|stuff1|jpg/jpeg|3.9|21 Items|Creative Commons Zero - Public Domain|British Museum, National Archeological Museum, Met Museum, MFA Boston, National Museums Liverpool, Newfields, Heraklion Archaeological Museum|stuff7|
 
 This section should describe relevant documentation and where it can be accessed. Your data dictionary, once completed, is excellent documentation\! Where and how do you plan on providing it to your audience?
 
@@ -42,11 +42,19 @@ This section should address how long your group plans to maintain each component
 Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials? If your data and products raise any potential ethics issues, use this section to address those matters. 
 
 **Appendix: Data Dictionary**  
-**field**  
-**definition**  
-**example value**  
-objectid  
-filename  
-title  
-creator  
-…
+**Appendix: Data Dictionary**  
+|**field**|**definition**|**example value**|
+|---|---|---|
+|objectid|  
+|filename|  
+|title|  
+|creator|
+|location|
+|date|
+|date_range|
+|description|
+|subject|
+|source|
+|format|
+|rights|
+|rightsstatement|
