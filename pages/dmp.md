@@ -21,19 +21,9 @@ Briefly describe how your data was collected.
 
 In the table, group it by file type, then sum up the \# of items, the size in MB, and data sources for each grouping.
 
-**Item Description**
-
-**File Type**
-
-**Size (in MB)**
-
-**\# of Items**
-
-**License(s)**
-
-**Sources**
-
-**Documentation and Metadata**
+|Item Descroption|File Type|Size (in MB)|\# of Items|License(s)|Sources|Documentation and Metadata|
+|---|---|---|---|---|---|---|
+|stuff1|stuff2|stuff3|stuff4|stuff5|stuff6|stuff7|
 
 This section should describe relevant documentation and where it can be accessed. Your data dictionary, once completed, is excellent documentation\! Where and how do you plan on providing it to your audience?
 
@@ -53,7 +43,8 @@ This section should address how long your group plans to maintain each component
 
 **Licensing and Ethical Issues**
 
-Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials? If your data and products raise any potential ethics issues, use this section to address those matters.  
+Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials? If your data and products raise any potential ethics issues, use this section to address those matters. 
+
 **Appendix: Data Dictionary**  
 **field**  
 **definition**  
