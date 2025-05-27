@@ -17,9 +17,11 @@ Briefly describe how your data was collected.
 
 In the table, group it by file type, then sum up the \# of items, the size in MB, and data sources for each grouping.
 
-|Item Descroption|File Type|Size (in MB)|\# of Items|License(s)|Sources|Documentation and Metadata|
-|---|---|---|---|---|---|---|
-|stuff1|jpg/jpeg|3.9|21 Items|Creative Commons Zero - Public Domain|British Museum, National Archeological Museum, Met Museum, MFA Boston, National Museums Liverpool, Newfields, Heraklion Archaeological Museum|stuff7|
+|Item Descroption|File Type|Size (in MB)|\# of Items|License(s)|Sources|
+|---|---|---|---|---|---|
+|stuff1|jpg/jpeg|3.9|21 Items|Creative Commons Zero - Public Domain|British Museum, National Archeological Museum, Met Museum, MFA Boston, National Museums Liverpool, Newfields, Heraklion Archaeological Museum|
+
+**Documentation and Metadata**
 
 This section should describe relevant documentation and where it can be accessed. Your data dictionary, once completed, is excellent documentation\! Where and how do you plan on providing it to your audience?
 
