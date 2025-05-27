@@ -1,5 +1,13 @@
+---
+title: Data Management Plan
+layout: page
+permalink: /dmp.html
+---
+
 **Project Title – Project Subtitle**  
-**Data Management Plan**  
+
+**Data Management Plan** 
+
 **Project Description**  
 Describe the project, its topic, and its technical requirements.   
 **Roles and Responsibilities**  
