@@ -20,6 +20,8 @@ We had gathered our data from primarily European Museum Collections, catalogs, a
 |---|---|---|---|---|---|
 |Screen grabs and downloaded images of sculptures from european museum collections|jpg/jpeg|3.9|21 Items|Creative Commons Zero - Public Domain|British Museum, National Archeological Museum, Met Museum, MFA Boston, National Museums Liverpool, Newfields, Heraklion Archaeological Museum|
 
+
+
 **Documentation and Metadata**
 
 All documentation for this project, including our data dictionary, will be made available through both a public GitHub repository and our GitHub-hosted Collection Builder Data website. This data dictionary gives clear definitions for each of our variables in our dataset with some units of measurement. This allows for an easier accessibility and reusability for other researchers and teachers. The GitHub repository is openly accessible and will be linked in our published materials and presentations. If need be, users can view, download, and contribute to the documentation as needed.
