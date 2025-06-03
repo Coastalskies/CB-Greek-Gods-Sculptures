@@ -17,9 +17,9 @@ The intended audience of this collection would be high school and college instru
 
 We had gathered our data from primarily European Museum Collections, catalogs, and databases. We started by going through each collection and grabbing the main gods and deities like Zeus and Aphrodite who are prominent in Greek god history. Then categorizing the data by what it was made by and making sure to look in the description for creators mentioned, where it was made, and time periods. This data that was acquired could be in the form of JPEG/JPG or a pdf if that format is allowed. We will record our data in sheets format that will easily convert to a CSV for analysis and easy transfer to GitHub. 
 
-|Item Descroption|File Type|Size (in MB)|\# of Items|License(s)|Sources|
+|Item Description|File Type|Size (in MB)|\# of Items|License(s)|Sources|
 |---|---|---|---|---|---|
-|stuff1|jpg/jpeg|3.9|21 Items|Creative Commons Zero - Public Domain|British Museum, National Archeological Museum, Met Museum, MFA Boston, National Museums Liverpool, Newfields, Heraklion Archaeological Museum|
+|Screen grabs and downloaded images of sculptures from european museum collections|jpg/jpeg|3.9|21 Items|Creative Commons Zero - Public Domain|British Museum, National Archeological Museum, Met Museum, MFA Boston, National Museums Liverpool, Newfields, Heraklion Archaeological Museum|
 
 **Documentation and Metadata**
 
