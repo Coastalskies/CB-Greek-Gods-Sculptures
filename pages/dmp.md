@@ -22,7 +22,7 @@ We had gathered our data from primarily European Museum Collections, catalogs, a
 
 **Documentation and Metadata**
 
-All documentation for this project, including our data dictionary, will be made available through a public GitHub repository. This data dictionary gives clear definitions for each of our variables in our dataset with some units of measurement. This allows for an easier accessibility and reusability for other researchers and teachers. The GitHub repository is openly accessible and will be linked in our published materials and presentations. If need be, users can view, download, and contribute to the documentation as needed. 
+All documentation for this project, including our data dictionary, will be made available through both a public GitHub repository and our GitHub-hosted Collection Builder Data website. This data dictionary gives clear definitions for each of our variables in our dataset with some units of measurement. This allows for an easier accessibility and reusability for other researchers and teachers. The GitHub repository is openly accessible and will be linked in our published materials and presentations. If need be, users can view, download, and contribute to the documentation as needed.
 
 **Storage and Backup**
 
@@ -30,11 +30,11 @@ All images are stored in Google Drive and GitHub and can be reaccessed via the m
 
 **Data Sharing**
 
-The dataset and its supporting materials are publicly shared through both a GitHub repository and an accompanying GitHub Pages website. Our GitHub repository houses our full dataset while our GitHub website presents our data in a visually accessible public format for all users. All materials are released under a Creative Commons Attribution 4.0 International (CC BY 4.0) license, allowing for open reuse with proper attribution. We encourage use by researchers in digital humanities, classical studies, and museum curation, as well as educators and the general public.
+The dataset and its supporting materials are publicly shared through both a GitHub repository and an accompanying GitHub Pages website. Our GitHub repository houses our full dataset while our GitHub website presents our data in a visually accessible public format for all users. Data can also be downloaded directly through the CollectionBuilder website interface. All materials are released under a Creative Commons Attribution 4.0 International (CC BY 4.0) license, allowing for open reuse with proper attribution. We encourage use by researchers in digital humanities, classical studies, and museum curation, as well as educators and the general public.
 
 **Period of Data Retention**
 
-We plan to retain all components of our project including our dataset, documentation, and our GitHub pages website for as long as possible after the completion of our DSCI 350 course at the University of Oregon. Our project will remain accessible for future references and portfolio uses. As well as any users who want to use it for academic or professional opportunities. We plan to keep data on GitHub indefinitely as long as the repository is maintained and checked accordingly allowing for long-term access and archiving. If no future updates are planned by either creator,  the repository will be archived in its final form with  indication of the competition date. 
+We plan to retain all components of our project including our dataset, documentation, and our GitHub pages website for as long as possible after the completion of our DSCI 350 course at the University of Oregon. Our project will remain accessible for future references, portfolio uses, and for any users who want to use it for academic or professional opportunities. We plan to keep data on GitHub indefinitely, with  periodic checks (about once a year) to ensure that the website and repository remain functional and accessible. This allows for long-term access and archiving. If no future updates are planned by either creator, the repository will be placed into GitHub’s archived state with a clear indication of the project's completion date and final status. 
 
 **Licensing and Ethical Issues**
 
