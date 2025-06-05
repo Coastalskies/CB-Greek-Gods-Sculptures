@@ -41,8 +41,9 @@ We plan to retain all components of our project including our dataset, documenta
 The images used in this collection are all fair use, as they are in the public domain. We ensured that we cited the sources from which we obtained the images and provided ample context, including the creators and dates where possible. We do not anticipate any ethical issues with this project and do not claim ownership of any of the images used in this collection. 
 
 **Appendix: Data Dictionary**  
+
 |**field**|**definition**|**example value**|
-|---|---|---|
+|---|------------------|-------------------------------------------------|
 |objectid|For our object IDs, we used a basic coll000 labeling system. The objects are in no particular order|coll010|
 |filename|Files we named using title case and contain the material used and the god/goddess noted|Colossal_Head_of_Artemis.jpg|
 |title|The title naming scheme is simple: the name(s) of the god(s) or goddess(es)|Artemis|
